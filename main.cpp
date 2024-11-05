@@ -28,8 +28,8 @@ int main() {
     cout << "请输入两个数字：" << endl;
     cin >> num1 >> num2;
 
-    cout << "其和为：" << calculate_sum(num1, num2) << endl;
-    cout << "其积为：" << calculate_multiply(num1, num2) << endl;
-    cout << "其差为：" << calculate_substract(num1, num2) << endl;
+    cout << "tmd和为：" << calculate_sum(num1, num2) << endl;
+    cout << "tmd积为：" << calculate_multiply(num1, num2) << endl;
+    cout << "tmd差为：" << calculate_substract(num1, num2) << endl;
     return 0;
 }
